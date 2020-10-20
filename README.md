@@ -35,6 +35,9 @@ partir do envio </p>
     L1i cache:                       192 KiB
     L2 cache:                        2 MiB
     NUMA node0 CPU(s):               0-3
+
+
+    ramos@Pedro:~$sudo lshw -class CPU    
     *-cpu                     
        description: CPU
        product: AMD A10-9600P RADEON R5, 10 COMPUTE CORES 4C+6G
