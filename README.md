@@ -8,34 +8,34 @@ dados metereológicos para estudos de clima e outras informações. Isso é feit
 partir do envio </p>
 
 <h3>Dados da máquina</h3>
-```
-ramos@Pedro:~$ lscpu
-Architecture:                    x86_64
-CPU op-mode(s):                  32-bit, 64-bit
-Byte Order:                      Little Endian
-Address sizes:                   48 bits physical, 48 bits virtual
-CPU(s):                          4
-On-line CPU(s) list:             0-3
-Thread(s) per core:              2
-Core(s) per socket:              2
-Socket(s):                       1
-NUMA node(s):                    1
-Vendor ID:                       AuthenticAMD
-CPU family:                      21
-Model:                           101
-Model name:                      AMD A10-9600P RADEON R5, 10 COMPUTE CORES 4C+6G
-Stepping:                        1
-Frequency boost:                 enabled
-CPU MHz:                         1284.038
-CPU max MHz:                     2400.0000
-CPU min MHz:                     1200.0000
-BogoMIPS:                        4791.03
-Virtualisation:                  AMD-V
-L1d cache:                       64 KiB
-L1i cache:                       192 KiB
-L2 cache:                        2 MiB
-NUMA node0 CPU(s):               0-3
-```  
+
+    ramos@Pedro:~$ lscpu
+    Architecture:                    x86_64
+    CPU op-mode(s):                  32-bit, 64-bit
+    Byte Order:                      Little Endian
+    Address sizes:                   48 bits physical, 48 bits virtual
+    CPU(s):                          4
+    On-line CPU(s) list:             0-3
+    Thread(s) per core:              2
+    Core(s) per socket:              2
+    Socket(s):                       1
+    NUMA node(s):                    1
+    Vendor ID:                       AuthenticAMD
+    CPU family:                      21
+    Model:                           101
+    Model name:                      AMD A10-9600P RADEON R5, 10 COMPUTE CORES 4C+6G
+    Stepping:                        1
+    Frequency boost:                 enabled
+    CPU MHz:                         1284.038
+    CPU max MHz:                     2400.0000
+    CPU min MHz:                     1200.0000
+    BogoMIPS:                        4791.03
+    Virtualisation:                  AMD-V
+    L1d cache:                       64 KiB
+    L1i cache:                       192 KiB
+    L2 cache:                        2 MiB
+    NUMA node0 CPU(s):               0-3
+
     
 
     
