@@ -1,12 +1,10 @@
 # TrabalhoRedes
 <header>
 <meta charset="UTF-8">
-<style>
+<style type="text/css">
 body{
     background-color:cian;
 }
-
-
 </style>
 </header>
 <body>
