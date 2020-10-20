@@ -35,7 +35,7 @@ L1d cache:                       64 KiB
 L1i cache:                       192 KiB
 L2 cache:                        2 MiB
 NUMA node0 CPU(s):               0-3
-```    
+```  
     
 
     
