@@ -35,6 +35,21 @@ partir do envio </p>
     L1i cache:                       192 KiB
     L2 cache:                        2 MiB
     NUMA node0 CPU(s):               0-3
+    *-cpu                     
+       description: CPU
+       product: AMD A10-9600P RADEON R5, 10 COMPUTE CORES 4C+6G
+       vendor: Advanced Micro Devices [AMD]
+       physical id: 4
+       bus info: cpu@0
+       version: AMD A10-9600P RADEON R5, 10 COMPUTE CORES 4C+6G
+       serial: Unknown
+       slot: Socket FP4
+       size: 1325MHz
+       capacity: 2400MHz
+       width: 64 bits
+       clock: 100MHz
+       capabilities: lm fpu fpu_exception wp vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp x86-64 constant_tsc rep_good acc_power nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs xop skinit wdt lwp fma4 tce nodeid_msr tbm topoext perfctr_core perfctr_nb bpext ptsc mwaitx cpb hw_pstate ssbd vmmcall fsgsbase bmi1 avx2 smep bmi2 xsaveopt arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif overflow_recov cpufreq
+       configuration: cores=4 enabledcores=4 threads=4
 
     
 
