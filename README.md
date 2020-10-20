@@ -1,2 +1,24 @@
 # TrabalhoRedes
-Trabalho 1 de Redes de Computadores
+<header>
+<meta charset="UTF-8">
+<style>
+body{
+    background-color:cian;
+}
+
+
+</style>
+</header>
+<body>
+
+
+
+
+
+
+
+
+</body>
+
+
+
