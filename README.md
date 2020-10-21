@@ -100,10 +100,6 @@ O projeto possui os seguintes arquivos:
 Para executar o programa siga os seguintes passos:
 </p>
 1. Abra dois ou mais terminais no diretório onde se encontram os arquivos desse projeto.
-1. Em um dos terminais digite:
-    make -f Makefile
-1. Em seguida digite:
-    ./servidor.out
-Isso iniciará o servidor
-1. Por fim nos outros terminais digite:
-    ./cliente.out
+1. Em um dos terminais digite:<addr>make -f Makefile</addr>
+1. Em seguida digite:<addr>./servidor.out<addr><br>Isso iniciará o servidor
+1. Por fim nos outros terminais digite: <addr>./cliente.out </addr>
