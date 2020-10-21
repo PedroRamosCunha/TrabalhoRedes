@@ -103,10 +103,12 @@ Para executar o programa siga os seguintes passos:
 </p>
 <ol>
 <li>Abra dois ou mais terminais no diretório onde se encontram os arquivos desse projeto.</li>
-<li>Em um dos terminais digite:make -f Makefile</li>
+<li>Em um dos terminais digite:<br>
+<b>make -f Makefile</b>
+<br> Esse comando irá compilar os arquivos C em sua máquina</li>
 <li>Em seguida digite:<br>
-    ./servidor.out 
+    <b>./servidor.out</b> 
     <br>Isso iniciará o sevidor</li>
 <li>Por fim nos outros terminais digite:<br> 
-    ./cliente.out 
+    <b>./cliente.out</b> 
     <br>Isso iniciará cada sonda individualmente </li>
