@@ -15,7 +15,7 @@ assim, modelos mais precisos.</p>
 <h3>Ambiente de Desenvolvimento do Código (IDE)</h3>
 <p>
 O códgigo foi desenvolvido no ambiente de programação <b>Visual Studio Code</b><br>
-A partir do desenvolvimento síncrono do código através da extenção <em>Live Shar</em><br>
+A partir do desenvolvimento síncrono do código através da extenção <em>Live Share</em><br>
 
 </p>
 <h3>Ambiente de compilação e execução do programa</h3>
@@ -24,6 +24,7 @@ A partir do desenvolvimento síncrono do código através da extenção <em>Live
 O programa 
 </p>
 <h3>Dados do Sistema Operacional</h3>
+    
     ramos@Pedro:~$ lsb_release -a
     No LSB modules are available.
     Distributor ID:	Ubuntu
