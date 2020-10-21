@@ -1,13 +1,22 @@
 <h1>Trabalho de Redes 1</h1>
 <h4>Gabriela Barion Vidal - 4277535 <br> Rodrigo Bragato Piva - 10684573 <br> Pedro Ramos Cunha - 10892248</h4>
 <h3>Sobre o projeto</h3>
-<p >
+<p>
 O Grupo Zenith de sondas é uma extracurricular famosa da Escola de Engenharia de <br>
 de São Carlos (EESC). Como parte de suas responsabilidades, temos a prospecção de<br>
 dados meteorológicos para estudos de clima e outras informações. Isso é feito a<br>
 partir do envio de sondas meteorológicas, que nada mais são que sistemas embarcados<br>
 que enviam sinais em um ritmo constante para a base.</p>
-<p>Para tanto, é necessário</p>
+<p>
+Para tanto, é necessário que haja um gerenciamento, pois o grupo lança inúmeras <br>
+sondas, simultâneamente, para que se tenha dados de várias partes da cidade e, assim, <br>
+modelos de precisos.</p>
+
+<h3>Ambiente de compilação e execução do programa</h3>
+<p>
+O programa 
+</p>
+
 
 <h3>Dados da máquina</h3>
 
