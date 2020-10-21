@@ -4,8 +4,10 @@
 <p >
 O Grupo Zenith de sondas é uma extracurricular famosa da Escola de Engenharia de <br>
 de São Carlos (EESC). Como parte de suas responsabilidades, temos a prospecção de<br>
-dados metereológicos para estudos de clima e outras informações. Isso é feito a<br>
-partir do envio </p>
+dados meteorológicos para estudos de clima e outras informações. Isso é feito a<br>
+partir do envio de sondas meteorológicas, que nada mais são que sistemas embarcados<br>
+que enviam sinais em um ritmo constante para a base.</p>
+<p>Para tanto, é necessário</p>
 
 <h3>Dados da máquina</h3>
 
