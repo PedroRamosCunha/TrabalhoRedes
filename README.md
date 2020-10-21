@@ -31,14 +31,13 @@ dados do compilador encontram-se no itens posteriores</p>
     This is free software; see the source for copying conditions.  There is NO
     warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 <h3>Dados do Sistema Operacional</h3>
-    ```
+
     ramos@Pedro:~$ lsb_release -a
     No LSB modules are available.
     Distributor ID:	Ubuntu
     Description:	Ubuntu 20.04.1 LTS
     Release:	20.04
-    Codename:	focal
-    ```
+    Codename:   focal
 <h3>Dados da máquina</h3>
 
     ramos@Pedro:~$ lscpu
