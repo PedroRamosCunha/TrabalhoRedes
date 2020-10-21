@@ -101,7 +101,12 @@ O projeto possui os seguintes arquivos:
 <p>
 Para executar o programa siga os seguintes passos:
 </p>
-1. Abra dois ou mais terminais no diretório onde se encontram os arquivos desse projeto.<br>
-1. Em um dos terminais digite:<addr>make -f Makefile</addr>
-1. Em seguida digite:<addr>./servidor.out<addr><br>Isso iniciará o servidor
-1. Por fim nos outros terminais digite: <addr>./cliente.out </addr>
+<ol>
+<li>Abra dois ou mais terminais no diretório onde se encontram os arquivos desse projeto.</li>
+<li>Em um dos terminais digite:make -f Makefile</li>
+<li>Em seguida digite:<br>
+    ./servidor.out 
+    <br>Isso iniciará o sevidor</li>
+<li>Por fim nos outros terminais digite:<br> 
+    ./cliente.out 
+    <br>Isso iniciará cada sonda individualmente </li>
