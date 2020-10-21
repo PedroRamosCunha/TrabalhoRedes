@@ -9,13 +9,27 @@ partir do envio de sondas meteorológicas, que nada mais são que sistemas embar
 que enviam sinais em um ritmo constante para a base.</p>
 <p>
 Para tanto, é necessário que haja um gerenciamento, pois o grupo lança inúmeras <br>
-sondas, simultâneamente, para que se tenha dados de várias partes da cidade e, assim, <br>
-modelos de precisos.</p>
+sondas, simultâneamente, para que se tenha dados de várias partes da cidade e, <br>
+assim, modelos mais precisos.</p>
 
+<h3>Ambiente de Desenvolvimento do Código (IDE)</h3>
+<p>
+O códgigo foi desenvolvido no ambiente de programação <b>Visual Studio Code</b><br>
+A partir do desenvolvimento síncrono do código através da extenção <em>Live Shar</em><br>
+
+</p>
 <h3>Ambiente de compilação e execução do programa</h3>
+
 <p>
 O programa 
 </p>
+<h3>Dados do Sistema Operacional</h3>
+    ramos@Pedro:~$ lsb_release -a
+    No LSB modules are available.
+    Distributor ID:	Ubuntu
+    Description:	Ubuntu 20.04.1 LTS
+    Release:	20.04
+    Codename:	focal
 
 
 <h3>Dados da máquina</h3>
