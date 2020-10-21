@@ -15,24 +15,30 @@ assim, modelos mais precisos.</p>
 <h3>Ambiente de Desenvolvimento do Código (IDE)</h3>
 <p>
 O códgigo foi desenvolvido no ambiente de programação <b>Visual Studio Code</b><br>
-A partir do desenvolvimento síncrono do código através da extenção <em>Live Share</em><br>
-
+A partir do desenvolvimento síncrono do código através da extenção <em>Live Share</em>
 </p>
 <h3>Ambiente de compilação e execução do programa</h3>
+<p>O ambiente de compilação e execução dos códigos desenvolvidos em C foram compilados<br>
+em um compilador GNU em um ambiente Ubuntu Linux. Já a execução foi feita através de<br>
+multiplos terminais Linux. Os dados do Sistema Operacional Utilizado, junto com os <br>
+dados do compilador encontram-se no itens posteriores</p>
 
-<p>
-O programa 
-</p>
+<h3>Dados do Compilador</h3>
+
+    ramos@Pedro:~$ gcc --version
+    gcc (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0
+    Copyright (C) 2019 Free Software Foundation, Inc.
+    This is free software; see the source for copying conditions.  There is NO
+    warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 <h3>Dados do Sistema Operacional</h3>
-    
+    ```
     ramos@Pedro:~$ lsb_release -a
     No LSB modules are available.
     Distributor ID:	Ubuntu
     Description:	Ubuntu 20.04.1 LTS
     Release:	20.04
     Codename:	focal
-
-
+    ```
 <h3>Dados da máquina</h3>
 
     ramos@Pedro:~$ lscpu
