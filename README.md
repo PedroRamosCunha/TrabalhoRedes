@@ -92,14 +92,16 @@ dados do compilador encontram-se no itens posteriores</p>
 <p>
 O projeto possui os seguintes arquivos:
 </p>
-*servidor.c
-*cliente.c
-*Makefile
-*Readme.md
+<ul>
+<li>servidor.c</li>
+<li>cliente.c</li>
+<li>Makefile</li>
+<li>Readme.md</li>
+</ul>
 <p>
 Para executar o programa siga os seguintes passos:
 </p>
-1. Abra dois ou mais terminais no diretório onde se encontram os arquivos desse projeto.
+1. Abra dois ou mais terminais no diretório onde se encontram os arquivos desse projeto.<br>
 1. Em um dos terminais digite:<addr>make -f Makefile</addr>
 1. Em seguida digite:<addr>./servidor.out<addr><br>Isso iniciará o servidor
 1. Por fim nos outros terminais digite: <addr>./cliente.out </addr>
