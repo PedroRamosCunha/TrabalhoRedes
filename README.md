@@ -1,5 +1,6 @@
 <h1>Trabalho de Redes 1</h1>
 <h4>Gabriela Barion Vidal - 4277535 <br> Rodrigo Bragato Piva - 10684573 <br> Pedro Ramos Cunha - 10892248</h4>
+<h2>Introdução</h2>
 <h3>Sobre o projeto</h3>
 <p>
 O Grupo Zenith de sondas é uma extracurricular famosa da Escola de Engenharia de <br>
@@ -12,11 +13,13 @@ Para tanto, é necessário que haja um gerenciamento, pois o grupo lança inúme
 sondas, simultâneamente, para que se tenha dados de várias partes da cidade e, <br>
 assim, modelos mais precisos.</p>
 
+<h2>Implementação</h2>
 <h3>Ambiente de Desenvolvimento do Código (IDE)</h3>
 <p>
 O códgigo foi desenvolvido no ambiente de programação <b>Visual Studio Code</b><br>
 A partir do desenvolvimento síncrono do código através da extenção <em>Live Share</em>
 </p>
+
 <h3>Ambiente de compilação e execução do programa</h3>
 <p>O ambiente de compilação e execução dos códigos desenvolvidos em C foram compilados<br>
 em um compilador GNU em um ambiente Ubuntu Linux. Já a execução foi feita através de<br>
@@ -84,8 +87,23 @@ dados do compilador encontram-se no itens posteriores</p>
        clock: 100MHz
        capabilities: lm fpu fpu_exception wp vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp x86-64 constant_tsc rep_good acc_power nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs xop skinit wdt lwp fma4 tce nodeid_msr tbm topoext perfctr_core perfctr_nb bpext ptsc mwaitx cpb hw_pstate ssbd vmmcall fsgsbase bmi1 avx2 smep bmi2 xsaveopt arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif overflow_recov cpufreq
        configuration: cores=4 enabledcores=4 threads=4
+<h2>Como executar</h2>
 
-    
-
-    
-
+<p>
+O projeto possui os seguintes arquivos:
+</p>
+*servidor.c
+*cliente.c
+*Makefile
+*Readme.md
+<p>
+Para executar o programa siga os seguintes passos:
+</p>
+1. Abra dois ou mais terminais no diretório onde se encontram os arquivos desse projeto.
+1. Em um dos terminais digite:
+    make -f Makefile
+1. Em seguida digite:
+    ./servidor.out
+Isso iniciará o servidor
+1. Por fim nos outros terminais digite:
+    ./cliente.out
